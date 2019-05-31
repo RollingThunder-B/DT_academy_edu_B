@@ -1,0 +1,36 @@
+[ ], list( )
+( ), tuple( )
+{항목}, set( )
+{ }, dict( )
+
+print( f " 최고 성적 : { 최고 : .2f } " )
+
+enumerate
+
+xlwt 라이브러리  _ 엑셀
+xlwings 강추
+missingno 빠진데이터 시각화
+scikit-learn
+
+정규표현식 공부
+
+pycon
+
+공부해볼만한 거
+kaggle 사이트에
+ 타이타닉 
+ 자전거 수요예측
+
+카테고리 형태는 카테고리 타입으로 바꿔주면 메모리를 절약, 빠름, 효율적 강추
+.astype('category')
+
+
+https://bit.ly/2KkV0oH
+https://github.com/StillWork/ds-lab
+
+책
+도마뱀 133까지 읽고오셈
+  챕터 6,7은 별로 
+공룡 66까지 읽고오셈
+  예제가 잘돼있담
+케라스는 아직 안읽어두됨
