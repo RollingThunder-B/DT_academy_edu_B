@@ -1,0 +1,5 @@
+ssl setting ; office envr
+
+git config --global http.sslVerify false
+
+git config --global --unset http.sslVerify
