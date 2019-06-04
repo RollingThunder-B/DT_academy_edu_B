@@ -1,11 +1,11 @@
-ssl setting ; office envr
+ï»¿ssl setting ; office envr
 
-github desktop 0x80092012 error Ãâ·Â½Ã Âü°í
-(clone or push ¿À·ù)
+github desktop 0x80092012 error ì¶œë ¥ì‹œ ì°¸ê³ 
+(clone or push ì˜¤ë¥˜)
 
 git config --global http.sslVerify false
 
 git config --global --unset http.sslVerify
 
-cloneÈÄ updateÈ¯°æÀº local ¸í·ÉÀ¸·Î ´ëÃ¼ °¡´É
+cloneí›„ updateí™˜ê²½ì€ local ëª…ë ¹ìœ¼ë¡œ ëŒ€ì²´ ê°€ëŠ¥
 
