@@ -1,5 +1,11 @@
 ssl setting ; office envr
 
+github desktop 0x80092012 error 출력시 참고
+(clone or push 오류)
+
 git config --global http.sslVerify false
 
 git config --global --unset http.sslVerify
+
+clone후 update환경은 local 명령으로 대체 가능
+
