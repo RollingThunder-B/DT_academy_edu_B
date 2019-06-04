@@ -9,3 +9,4 @@ git config --global --unset http.sslVerify
 
 clone후 update환경은 local 명령으로 대체 가능
 
+clone test 01
